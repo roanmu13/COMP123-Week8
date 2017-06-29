@@ -10,7 +10,7 @@ namespace COMP123_Week8
     /// This is summary of person class
     /// 
     /// </summary>
-    class Person
+    public class Person
     {
         //Private instance variables--------------------------------
         private string _name;

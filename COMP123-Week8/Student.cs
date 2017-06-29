@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace COMP123_Week8
 {
-    class Student :Person
+    public class Student :Person
     {
         //private instance variable
 
